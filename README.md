@@ -1,2 +1,14 @@
 # xingkongapp-site-journal
-HTML page archive and documentation
+
+页面发布与维护记录
+
+这里集中存放 HTML 页面，README 仅用于说明仓库用途。
+
+## 保存位置
+
+- 页面文件默认保存在仓库根目录
+- 说明文件保存在 `README.md`
+
+## 更新说明
+
+仓库会随发布任务继续更新，已发布页面以实际文件为准。
